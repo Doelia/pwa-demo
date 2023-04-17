@@ -1,0 +1,26 @@
+{
+  "name": "PWA Démo",
+  "lang": "en",
+  "short_name": "PwaShortName",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ff0000",
+  "theme_color": "#ff00FF",
+  "scope": "/",
+  "description": "Description de la PWA Short Name",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "purpose": "any",
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [],
+  "categories": [
+    "entertainment"
+  ],
+  "dir": "ltr",
+  "screenshots": []
+}
